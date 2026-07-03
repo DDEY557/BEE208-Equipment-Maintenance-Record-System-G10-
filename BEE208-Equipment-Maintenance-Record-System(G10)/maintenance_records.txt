@@ -1,0 +1,14 @@
+Equipment Name   : Oscilloscope
+Equipment ID     :  OSC-101
+Fault Description: No display output
+Technician Name  : Kojo Mensah
+Maintenance Cost : GHS 150
+Repair Status    : InProgress
+---------------------------------
+Equipment Name   : Multimeter
+Equipment ID     : DMM-205
+Fault Description: Battery issue
+Technician Name  : Ama Boateng
+Maintenance Cost : GHS 50
+Repair Status    : Completed
+---------------------------------
