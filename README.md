@@ -1,17 +1,17 @@
 # BEE208-Equipment-Maintenance-Record-System-G10-
 # EQUIPMENT MAINTENANCE RECORD SYSTEM
 
-## 📌 Course
+##  Course
 BEE 208 – C++ Programming
 
 
 
-## 📌 Project Description
+##  Project Description
 This project is a C++ application designed to manage equipment maintenance records in laboratories, workshops, and engineering environments. It allows users to input, validate, display, and save maintenance information for different equipment.
 
 
 
-## 🎯 Features
+##  Features
 - Add multiple maintenance records
 - Input equipment details
 - Validate maintenance cost (no negative values)
@@ -22,7 +22,7 @@ This project is a C++ application designed to manage equipment maintenance recor
 
 
 
-## 🧠 C++ Concepts Used
+##  C++ Concepts Used
 - Classes and Objects
 - Functions
 - File Handling
@@ -33,7 +33,7 @@ This project is a C++ application designed to manage equipment maintenance recor
 
 
 
-## 🚀 How to Run
+##  How to Run
 
 ### Compile
 g++ main.cpp -o main
@@ -45,7 +45,7 @@ g++ main.cpp -o main
 
 
 
-## 📂 Project Files
+##  Project Files
 - main.cpp
 - algorithm.md
 - pseudocode.md
@@ -58,13 +58,13 @@ g++ main.cpp -o main
 
 
 
-## 📊 Output File
+##  Output File
 All maintenance records are saved in:
 maintenance_records.txt
 
 
 
-## 👨‍💻 GROUP MEMBERS & ROLES
+##  GROUP MEMBERS & ROLES
 
 1. Shaibu Prince Ayuba (01246857B)
    - Project Lead
@@ -98,10 +98,10 @@ maintenance_records.txt
 
 
 
-## 📌 Status
+##  Status
 Project completed successfully and ready for submission.
 
 
 
-## 📖 Institution
+##  Institution
 Accra Technical University – Electrical/Electronic Engineering Department
