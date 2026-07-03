@@ -78,7 +78,7 @@ maintenance_records.txt
 4. Abubakar Abdul Ganew (01243038B)
    - C++ Programmer
 
-5. Amoatoh Emmanuel (01240575B)
+5. Amoakoh Emmanuel (01240575B)
    - Testing Lead
 
 6. Akufful-Andoh Henrietta (01244784B)
