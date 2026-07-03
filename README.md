@@ -75,7 +75,7 @@ maintenance_records.txt
 3. Dominic Doe (01244338B)
    - C++ Programmer
 
-4. Abubakar Abdul Ganeu (01243038B)
+4. Abubakar Abdul Ganew (01243038B)
    - C++ Programmer
 
 5. Amoatoh Emmanuel (01240575B)
