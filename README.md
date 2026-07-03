@@ -93,7 +93,7 @@ maintenance_records.txt
 9. Annang Gershon Adjei (01243515B)
    - Pseudocode Writer
 
-10. Kuusanang Seth
+10. Kuusanang Seth (01242510B)
    - Presentation Lead
 
 
